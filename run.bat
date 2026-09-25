@@ -1,1 +1,1 @@
-"D:\Roman\Python\school_timer\.venv\Scripts\python.exe" "D:\Roman\Python\school_timer\lesson_mic_timer.py"
+".\.venv\Scripts\python.exe" ".\lesson_mic_timer.py"
